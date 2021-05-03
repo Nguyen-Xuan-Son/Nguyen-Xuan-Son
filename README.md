@@ -5,7 +5,7 @@ Hey 👋🏻, I'm chamdev
 <p align='center'>I am a software developer and a history lover</p>
 <br />
 
-![Chamdev's github stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Xuan-Son&show_icons=true&hide_border=true&theme=dracula)
+![Chamdev's github stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Xuan-Son&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Xuan-Son)
