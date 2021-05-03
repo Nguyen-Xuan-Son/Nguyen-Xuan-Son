@@ -1,14 +1,14 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=thangdev.thangdev)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nguyen-Xuan-Son.Nguyen-Xuan-Son)
 <h3 align='center'>
-Hey 👋🏻, I'm Thang
+Hey 👋🏻, I'm chamdev
 </h3> 
 <p align='center'>I am a software developer and a history lover</p>
 <br />
 
-![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=thangdev&show_icons=true&hide_border=true&theme=dracula)
+![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Xuan-Son&show_icons=true&hide_border=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangdev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Xuan-Son)
 
 
 **Languages and Tools I use:** 
