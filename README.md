@@ -7,11 +7,9 @@ Hey 👋🏻, I'm chamdev
 
 ![Chamdev's github stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Xuan-Son&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Nguyen-Xuan-Son&langs_count=10)
 
 ![Chamdev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nguyen-Xuan-Son)
-
 
 **Languages and Tools I use:** 
 <br>
