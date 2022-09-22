@@ -2,7 +2,7 @@
 <h3 align='center'>
 Hey 👋🏻, I'm chamdev
 </h3> 
-<p align='center'>I am a software developer and a history lover</p>
+<p align='center'>I am a fullstack software developer</p>
 <br />
 
 ![Chamdev's github stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Xuan-Son&show_icons=true&hide_border=true&theme=dracula&count_private=true)
